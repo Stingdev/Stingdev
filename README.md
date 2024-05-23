@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Wordpress**
+- 🔭 I’m currently working on **Wordpress,React**
 
 - 🌱 I’m currently learning **PHP Symfony**
 
